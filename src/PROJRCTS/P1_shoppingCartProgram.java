@@ -1,7 +1,7 @@
 package PROJRCTS;
 import java.util.*;
 
-public class shoppingCartProgram {
+public class P1_shoppingCartProgram {
     static void main() {
         Scanner scanner = new Scanner(System.in);
        String item;

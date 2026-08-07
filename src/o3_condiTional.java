@@ -1,5 +1,5 @@
 import java.util.*;
-public class condiTional {
+public class o3_condiTional {
     static void main() {
         // if statement = run a block of code if conditions is true
 

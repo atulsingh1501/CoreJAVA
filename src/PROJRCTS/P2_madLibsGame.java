@@ -1,7 +1,7 @@
 package PROJRCTS;
 
 import java.util.*;
-public class madLibsGame {
+public class P2_madLibsGame {
     static void main() {
 
         //MAD LIBS GAME
