@@ -1,3 +1,5 @@
+package CoreJava;
+
 import java.util.*;
 public class o3_condiTional {
     static void main() {

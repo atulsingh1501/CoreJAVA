@@ -1,5 +1,7 @@
+package CoreJava;
+
 import java.util.Random;
-public class o5_randomNumber {
+public class o4_randomNumber {
     static void main() {
         Random random = new Random();
 

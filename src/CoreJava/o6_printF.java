@@ -1,6 +1,6 @@
-import java.util.*;
+package CoreJava;
 
-public class o7_printF {
+public class o6_printF {
     static void main() {
 
         //printf() = is a method use to format output

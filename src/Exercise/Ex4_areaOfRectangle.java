@@ -1,6 +1,8 @@
+package Exercise;
+
 import java.util.Scanner;
 
-public class o4_areaOfRectangle {
+public class Ex4_areaOfRectangle {
     static void main() {
         //calculate area of rectangle
 

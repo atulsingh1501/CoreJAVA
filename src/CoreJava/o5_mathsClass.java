@@ -1,4 +1,6 @@
-public class o6_mathsClass {
+package CoreJava;
+
+public class o5_mathsClass {
 
     public static void main(String[] args) {
 
