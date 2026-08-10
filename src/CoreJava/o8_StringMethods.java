@@ -73,5 +73,24 @@ public class o8_StringMethods {
         }
 */
 
+     /*   //isEmpty()
+        Scanner scanner = new Scanner (System.in);
+        System.out.print("write the string: ");
+        String s = scanner.nextLine();
+        if(s.isEmpty()) {
+            System.out.println("yes your string is empty babe");
+        }
+        else{
+            System.out.println("no babe it not an empty string");
+        }
+        */
+
+        //Split string into array String.split(" ") split string into array by the basis of space String.split(",")split string into array by the basis of comma
+      String name ="hii i am apple singh mango";
+      String[] fruits = name.split(" ");
+        for(int i = 0; i < fruits.length; i++){
+            System.out.println(fruits[i]); }
+
+
     }
 }
