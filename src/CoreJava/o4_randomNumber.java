@@ -8,8 +8,8 @@ public class o4_randomNumber {
         boolean isHeads;
         isHeads = random.nextBoolean();
 
-        double number;
-        number = random.nextDouble();
+//        double number;
+//        number = random.nextDouble();
 //        int number1;
 //        int number2;
 //        int number3;
@@ -24,7 +24,7 @@ public class o4_randomNumber {
 //        System.out.println(number2);
 //        System.out.println(number3);
 
-        System.out.println(number);
+//        System.out.println(number);
         if(isHeads){
             System.out.println("Head");
         }else{
