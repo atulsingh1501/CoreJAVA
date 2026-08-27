@@ -47,7 +47,7 @@ public class o6_printF {
         System.out.printf("% d%n", 50);   //  50
 
         // comma separator
-        System.out.printf("%,d%n", 1000000); // 1,000,000
+        System.out.printf("%,d", 1000000); // 1,000,000
 
     }
 }

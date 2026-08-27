@@ -33,7 +33,7 @@ public class o5_mathsClass {
         System.out.println(result);
 
         // Math.floor(x) -> rounds down
-        result = Math.floor(3.99);
+        result = Math.floor(3.14);
         System.out.println(result);
 
         // Math.max(a, b) -> returns larger value
