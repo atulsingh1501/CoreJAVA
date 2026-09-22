@@ -40,8 +40,8 @@ src/
 - Arrays
 - Strings
 
-### Object-Oriented Programming
-- Classes and Objects
+### OOPs.Object-Oriented Programming
+- Classes and OOPs.Objects
 - Constructors
 - Encapsulation
 - Inheritance

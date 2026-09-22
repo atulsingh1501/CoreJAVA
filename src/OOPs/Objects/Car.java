@@ -1,4 +1,4 @@
-package CoreJava.Object;
+package OOPs.Objects;
 
 public class Car {
     String make = "Tata";
@@ -15,7 +15,7 @@ public class Car {
     }
 
     void brake() {      // Method
-        System.out.println("you barke the " + model );
+        System.out.println("you brake the " + model );
     }
 
     void stop(){
