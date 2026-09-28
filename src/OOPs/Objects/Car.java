@@ -1,6 +1,8 @@
 package OOPs.Objects;
 
 public class Car {
+//    An object is an instance of a class that contains
+//    its own data (state) and can perform actions (behavior).
     String make = "Tata";
     String model = "nexon";
     int year = 2026;
